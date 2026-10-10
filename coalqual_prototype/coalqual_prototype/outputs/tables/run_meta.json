@@ -1,0 +1,17 @@
+{
+  "trained_on_synthetic": true,
+  "n_samples": 240,
+  "seed": 42,
+  "targets": [
+    "CV"
+  ],
+  "blocks": {
+    "spectra": true,
+    "derivative": true,
+    "band_depths": true,
+    "ratios": true,
+    "xrf": true,
+    "colour": true,
+    "texture": false
+  }
+}

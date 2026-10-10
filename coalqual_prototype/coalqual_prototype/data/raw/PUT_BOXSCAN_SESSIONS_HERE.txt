@@ -1,0 +1,1 @@
+unzip 10septestscan01.zip and 10septestscan02.zip here (one folder per session)
